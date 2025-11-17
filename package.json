@@ -1,0 +1,24 @@
+{
+  "name": "eleclock",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/u1e2k/eleclock#readme",
+  "bugs": {
+    "url": "https://github.com/u1e2k/eleclock/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/u1e2k/eleclock.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^39.2.1"
+  }
+}
